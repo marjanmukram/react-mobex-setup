@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+.formSection {
+  margin-top: 30px;
+}
+
+.formSection p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.dashboardSection {
+  margin-top: 50px;
+}
+
+.reviewsWrapper {
+  margin-top: 50px;
+}
